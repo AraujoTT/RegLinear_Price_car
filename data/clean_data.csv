@@ -1,4 +1,4 @@
-Year,FuelConsumption(L/KM),Kilometres,Doors,Seats,Price,Automatic,Manual,DEMO,NEW,USED,Engine_cyl_num,Engine_total_vol
+Year,FuelConsumption,Kilometres,Doors,Seats,Price,Automatic,Manual,DEMO,NEW,USED,Engine_cyl_num,Engine_total_vol
 2022,8.7,5595.0,4,7,51990.0,1,0,1,0,0,4,2.2
 2022,6.7,16.0,5,5,19990.0,1,0,0,0,1,4,1.5
 2022,6.6,8472.0,2,4,108988.0,1,0,0,0,1,4,2.0
